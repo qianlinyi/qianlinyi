@@ -25,8 +25,10 @@ export default {
 <style scoped>
 .personal {
   line-height: 1.5rem; /*行距*/
-  float: left;
+  /*float: left;*/
   text-align: left;
+  padding: 10px;
+  /*border: 10px;*/
 }
 
 .personal .name {
