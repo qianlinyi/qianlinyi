@@ -8,7 +8,7 @@
       <div>
         电子邮件：
         <a href="mailto:qianlinyi@hhu.edu.cn">
-          qianlinyi@hhu.edu.cn
+          <b>qianlinyi@hhu.edu.cn</b>
         </a>
       </div>
       <div>南京市江宁区秣陵街道佛城西路8号河海大学</div>

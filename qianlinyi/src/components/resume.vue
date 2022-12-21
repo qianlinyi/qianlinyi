@@ -3,6 +3,7 @@
     <Personal></Personal>
     <EducationalBackground></EducationalBackground>
     <InternshipExperience></InternshipExperience>
+    <competitionExperience></competitionExperience>
   </div>
 </template>
 
@@ -10,10 +11,11 @@
 import Personal from './personalInfo'
 import EducationalBackground from './educationalBackground'
 import InternshipExperience from './internshipExperience'
+import CompetitionExperience from './competitionExperience'
 
 export default {
   name: 'HelloWorld',
-  components: {InternshipExperience, EducationalBackground, Personal},
+  components: {CompetitionExperience, InternshipExperience, EducationalBackground, Personal},
   data() {
     return {
       msg: 'Welcome to Your Vue.js App'

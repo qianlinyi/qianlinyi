@@ -1,5 +1,5 @@
 <template>
-  <div class="internshipExperinece">
+  <div class="internshipExperience">
     <div class="title">
       <b>实习经历</b>
     </div>
@@ -35,13 +35,13 @@ export default {
 </script>
 
 <style scoped>
-.internshipExperinece {
+.internshipExperience {
   text-align: left;
   line-height: 1.5rem;
   padding: 10px;
 }
 
-.internshipExperinece .title {
+.internshipExperience .title {
   font-size: 1.5rem;
   padding-bottom: 10px;
 }
@@ -51,7 +51,7 @@ export default {
   border: 1px solid black;
 }
 
-.internshipExperinece .content {
+.internshipExperience .content {
   padding: 10px;
 }
 </style>
