@@ -10,7 +10,7 @@
 <table>
   <tr>
     <th>
-      <img alt="Time Stats" src="https://github-readme-stats.vercel.app/api?username=qianlinyi&show_icons=true&theme=transparent&hide_border=true&count_private=true" align="center" /> 
+      <img alt="Time Stats" src="https://github-readme-stats.vercel.app/api?username=qianlinyi&count_private=true&show_icons=true&theme=transparent&hide_border=true" align="center" /> 
     </th>
         <th>
       <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=qianlinyi&layout=donut&theme=transparent&hide_border=true&hide=html,css,javascript" align="center"/>
