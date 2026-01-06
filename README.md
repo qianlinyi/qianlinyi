@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning Python and Golang...
 - 📫 Personal site: [qianlinyi.cn](https://qianlinyi.cn/)
 
-<table>
+<!-- <table>
   <tr>
     <th>
       <img alt="Time Stats" src="https://github-readme-stats.vercel.app/api?username=qianlinyi&count_private=true&show_icons=true&theme=transparent&hide_border=true" align="center" /> 
@@ -16,7 +16,7 @@
       <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=qianlinyi&layout=donut&theme=transparent&hide_border=true&hide=html,css,javascript" align="center"/>
     </th>
   </tr>
-</table>
+</table> -->
 
 <!---
 qianlinyi/qianlinyi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
